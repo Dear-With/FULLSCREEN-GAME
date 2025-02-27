@@ -1,0 +1,56 @@
+body {
+      background: #e6e6e6;
+      color: black;
+      text-align: center;
+      margin: 0px;
+      font-family: Google Sans;
+}
+header {
+      background: #5dc198;
+      color: white;
+      display: flex;
+}
+.snsIcon{
+      height: 45px;
+}
+video {
+      height: 350px;
+      border-radius: 20px;
+}
+section {
+      margin: 40px;
+      border-radius: 20px;
+      background: white;
+}
+button {
+      border-radius: 10px;
+      border: 0px;
+      background: #5dc198;
+      color: white;
+      width: 400px;
+      height: 40px;
+}
+footer {
+      background: #494949;
+      color: white;
+      height: 300px;
+}
+img {
+      height: 200px;
+}
+.logo {
+      height: 250px;
+}
+#modeImage {
+      height: 35px;
+}
+#top {
+      background: white;
+      background-image: url(TOP.jpg);
+      color: white;
+      zoom: 100%;
+      height: 500px;
+}
+#logo {
+      height: 100px;
+}
